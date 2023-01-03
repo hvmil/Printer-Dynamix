@@ -1,0 +1,721 @@
+12/03/22
+
+Sat Dec  3 16:45:31 2022
+Sat Dec  3 16:45:31 2022
+Printer: BLI-LJ-602
+IP: 137.140.24.130
+Black cartridge data updated
+
+Sat Dec  3 16:45:36 2022
+Sat Dec  3 16:45:36 2022
+Printer: BOU-LJ-602
+IP: 137.140.24.131
+Black cartridge data updated
+
+Sat Dec  3 16:45:41 2022
+Sat Dec  3 16:45:41 2022
+Printer: CAP-LJ-602
+IP: 137.140.24.132
+Black cartridge data updated
+
+Sat Dec  3 16:45:42 2022
+Sat Dec  3 16:45:42 2022
+Printer: CAPENEOP-LJ-M608
+IP: 137.140.24.177
+Black cartridge data updated
+
+Sat Dec  3 16:45:47 2022
+Printer: CH-LJ-602
+IP: 137.140.24.133
+Black cartridge data updated
+
+Sat Dec  3 16:45:53 2022
+Printer: CSB118-CLJ-M750
+IP: 137.140.24.235
+Black cartridge data updated
+
+Sat Dec  3 16:45:53 2022
+Printer: CSB118-CLJ-M750
+IP: 137.140.24.235
+Cyan cartridge data updated
+
+Sat Dec  3 16:45:53 2022
+Printer: CSB118-CLJ-M750
+IP: 137.140.24.235
+Magenta cartridge data updated
+
+Sat Dec  3 16:45:53 2022
+Printer: CSB118-CLJ-M750
+IP: 137.140.24.235
+Yellow cartridge data updated
+
+Sat Dec  3 16:45:58 2022
+Printer: CSB118-LJ-M806
+IP: 137.140.24.221
+Black cartridge data updated
+
+Sat Dec  3 16:46:03 2022
+Printer: CSB145-LJ-602
+IP: 137.140.24.166
+Black cartridge data updated
+
+Sat Dec  3 16:46:11 2022
+Printer: CSB21-LJ-603
+IP: 137.140.24.160
+Black cartridge data updated
+
+Sat Dec  3 16:46:20 2022
+Printer: CSB24-LJ-603
+IP: 137.140.24.172
+Black cartridge data updated
+
+Sat Dec  3 16:46:29 2022
+Printer: CSB29-LJ-603
+IP: 137.140.24.174
+Black cartridge data updated
+
+Sat Dec  3 16:46:31 2022
+Printer: CSB312-LJ-M608
+IP: 137.140.24.175
+Black cartridge data updated
+
+Sat Dec  3 16:46:32 2022
+Printer: CSB321-LJ-M609
+IP: 137.140.24.205
+Black cartridge data updated
+
+Sat Dec  3 16:46:37 2022
+Printer: CT126-CLJ-M750
+IP: 137.140.24.245
+Black cartridge data updated
+
+Sat Dec  3 16:46:37 2022
+Printer: CT126-CLJ-M750
+IP: 137.140.24.245
+Cyan cartridge data updated
+
+Sat Dec  3 16:46:37 2022
+Printer: CT126-CLJ-M750
+IP: 137.140.24.245
+Magenta cartridge data updated
+
+Sat Dec  3 16:46:37 2022
+Printer: CT126-CLJ-M750
+IP: 137.140.24.245
+Yellow cartridge data updated
+
+Sat Dec  3 16:46:44 2022
+Printer: CT126-LJ-602
+IP: 137.140.24.243
+Black cartridge data updated
+
+Sat Dec  3 16:46:47 2022
+Sat Dec  3 16:46:47 2022
+Printer: EIH218 -LJ-M806
+IP: 137.140.24.212
+Black cartridge data updated
+
+Sat Dec  3 16:46:53 2022
+Printer: EIH218-CLJ-M750
+IP: 137.140.24.213
+Black cartridge data updated
+
+Sat Dec  3 16:46:53 2022
+Printer: EIH218-CLJ-M750
+IP: 137.140.24.213
+Cyan cartridge data updated
+
+Sat Dec  3 16:46:53 2022
+Printer: EIH218-CLJ-M750
+IP: 137.140.24.213
+Magenta cartridge data updated
+
+Sat Dec  3 16:46:53 2022
+Printer: EIH218-CLJ-M750
+IP: 137.140.24.213
+Yellow cartridge data updated
+
+Sat Dec  3 16:47:00 2022
+Sat Dec  3 16:47:00 2022
+Printer: ESO-LJ-602
+IP: 137.140.24.123
+Black cartridge data updated
+
+Sat Dec  3 16:47:01 2022
+Printer: FAB225-LJ-M806
+IP: 137.140.24.163
+Black cartridge data updated
+
+Sat Dec  3 16:47:06 2022
+Sat Dec  3 16:47:06 2022
+Printer: GAGE-LJ-602
+IP: 137.140.24.124
+Black cartridge data updated
+
+Sat Dec  3 16:47:08 2022
+Sat Dec  3 16:47:08 2022
+Printer: HAB210-LJ-M608
+IP: 137.140.24.192
+Black cartridge data updated
+
+Sat Dec  3 16:47:13 2022
+Printer: HONORS-CLJ-M551
+IP: 137.140.24.217
+Black cartridge data updated
+
+Sat Dec  3 16:47:13 2022
+Printer: HONORS-CLJ-M551
+IP: 137.140.24.217
+Cyan cartridge data updated
+
+Sat Dec  3 16:47:13 2022
+Printer: HONORS-CLJ-M551
+IP: 137.140.24.217
+Magenta cartridge data updated
+
+Sat Dec  3 16:47:13 2022
+Printer: HONORS-CLJ-M551
+IP: 137.140.24.217
+Yellow cartridge data updated
+
+Sat Dec  3 16:47:15 2022
+Printer: HONORS-LJ-4515
+IP: 137.140.24.157
+ERROR 200: Recent page address failed
+Error message:
+404 Client Error: Not Found for url: https://137.140.24.157/hp/device/InternalPages/Index?id=SuppliesStatus
+
+Sat Dec  3 16:47:18 2022
+Printer: HONORS-LJ-4515
+IP: 137.140.24.157
+Black cartridge data updated
+
+Sat Dec  3 16:47:38 2022
+Printer: HUM103-LJ-603
+IP: 137.140.24.146
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPConnectionPool(host='137.140.24.146', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000029235942F50>, 'Connection to 137.140.24.146 timed out. (connect timeout=20)'))
+
+Sat Dec  3 16:47:42 2022
+Printer: HUM105-LJ-m507
+IP: 137.140.24.158
+Black cartridge data updated
+
+Sat Dec  3 16:47:47 2022
+Sat Dec  3 16:47:47 2022
+Printer: HUM105B - CLJ-M750
+IP: 137.140.24.161
+Black cartridge data updated
+
+Sat Dec  3 16:47:47 2022
+Printer: HUM105B - CLJ-M750
+IP: 137.140.24.161
+Cyan cartridge data updated
+
+Sat Dec  3 16:47:47 2022
+Printer: HUM105B - CLJ-M750
+IP: 137.140.24.161
+Magenta cartridge data updated
+
+Sat Dec  3 16:47:47 2022
+Printer: HUM105B - CLJ-M750
+IP: 137.140.24.161
+Yellow cartridge data updated
+
+Sat Dec  3 16:48:07 2022
+Printer: HUM107-LJ- M806
+IP: 137.140.24.206
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPConnectionPool(host='137.140.24.206', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000292359C9720>, 'Connection to 137.140.24.206 timed out. (connect timeout=20)'))
+
+Sat Dec  3 16:48:15 2022
+Printer: HUM24-LJ-603
+IP: 137.140.24.199
+Black cartridge data updated
+
+Sat Dec  3 16:48:16 2022
+Printer: HUM301-LJ-M609
+IP: 137.140.24.204
+Black cartridge data updated
+
+Sat Dec  3 16:48:17 2022
+Printer: HUM307-CLJ-5550
+IP: 137.140.24.178
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPSConnectionPool(host='137.140.24.178', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:997)')))
+
+Sat Dec  3 16:48:26 2022
+Sat Dec  3 16:48:26 2022
+Printer: HUM4-LJ-M603
+IP: 137.140.24.191
+Black cartridge data updated
+
+Sat Dec  3 16:48:31 2022
+Printer: HUMB1-CLJ-M551
+IP: 137.140.24.171
+Black cartridge data updated
+
+Sat Dec  3 16:48:31 2022
+Printer: HUMB1-CLJ-M551
+IP: 137.140.24.171
+Cyan cartridge data updated
+
+Sat Dec  3 16:48:31 2022
+Printer: HUMB1-CLJ-M551
+IP: 137.140.24.171
+Magenta cartridge data updated
+
+Sat Dec  3 16:48:31 2022
+Printer: HUMB1-CLJ-M551
+IP: 137.140.24.171
+Yellow cartridge data updated
+
+Sat Dec  3 16:48:34 2022
+Printer: LC110-LJ-M606
+IP: 137.140.24.237
+Black cartridge data updated
+
+Sat Dec  3 16:48:38 2022
+Printer: LC112-LJ-M606
+IP: 137.140.24.189
+Black cartridge data updated
+
+Sat Dec  3 16:48:58 2022
+Printer: LC120B-CLJ-5550
+IP: 137.140.24.240
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPConnectionPool(host='137.140.24.240', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000029235B332E0>, 'Connection to 137.140.24.240 timed out. (connect timeout=20)'))
+
+Sat Dec  3 16:48:59 2022
+Printer: LCLOBBY-LJ-M806
+IP: 137.140.24.226
+Black cartridge data updated
+
+Sat Dec  3 16:49:05 2022
+Sat Dec  3 16:49:05 2022
+Printer: LEN-LJ-602
+IP: 137.140.24.126
+Black cartridge data updated
+
+Sat Dec  3 16:49:10 2022
+Sat Dec  3 16:49:10 2022
+Printer: MNH-LJ-601
+IP: 137.140.24.129
+Black cartridge data updated
+
+Sat Dec  3 16:49:17 2022
+Printer: MOH-LJ-602
+IP: 137.140.24.122
+Black cartridge data updated
+
+Sat Dec  3 16:49:23 2022
+Sat Dec  3 16:49:23 2022
+Printer: OIT-CLJ-M750
+IP: 137.140.24.152
+Black cartridge data updated
+
+Sat Dec  3 16:49:23 2022
+Printer: OIT-CLJ-M750
+IP: 137.140.24.152
+Cyan cartridge data updated
+
+Sat Dec  3 16:49:23 2022
+Printer: OIT-CLJ-M750
+IP: 137.140.24.152
+Magenta cartridge data updated
+
+Sat Dec  3 16:49:23 2022
+Printer: OIT-CLJ-M750
+IP: 137.140.24.152
+Yellow cartridge data updated
+
+Sat Dec  3 16:49:24 2022
+Printer: OM131-LJ-M806
+IP: 137.140.24.236
+Black cartridge data updated
+
+Sat Dec  3 16:49:24 2022
+Printer: OM215-CLJ-5500
+IP: 137.140.24.153
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPSConnectionPool(host='137.140.24.153', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:997)')))
+
+Sat Dec  3 16:49:25 2022
+Printer: OM215-LJ-M609
+IP: 137.140.24.185
+Black cartridge data updated
+
+Sat Dec  3 16:49:32 2022
+Sat Dec  3 16:49:32 2022
+Printer: OMB102-CLJ-M551
+IP: 137.140.24.219
+Black cartridge data updated
+
+Sat Dec  3 16:49:32 2022
+Printer: OMB102-CLJ-M551
+IP: 137.140.24.219
+Cyan cartridge data updated
+
+Sat Dec  3 16:49:32 2022
+Printer: OMB102-CLJ-M551
+IP: 137.140.24.219
+Magenta cartridge data updated
+
+Sat Dec  3 16:49:32 2022
+Printer: OMB102-CLJ-M551
+IP: 137.140.24.219
+Yellow cartridge data updated
+
+Sat Dec  3 16:49:35 2022
+Printer: OMB102-LJ-4515
+IP: 137.140.24.218
+ERROR 200: Recent page address failed
+Error message:
+404 Client Error: Not Found for url: https://137.140.24.218/hp/device/InternalPages/Index?id=SuppliesStatus
+
+Sat Dec  3 16:49:37 2022
+Printer: OMB102-LJ-4515
+IP: 137.140.24.218
+Black cartridge data updated
+
+Sat Dec  3 16:49:40 2022
+Sat Dec  3 16:49:40 2022
+Printer: OMB106-LJ-M606
+IP: 137.140.24.151
+Black cartridge data updated
+
+Sat Dec  3 16:49:46 2022
+Printer: PDH-CLJ-M750
+IP: 137.140.24.145
+Black cartridge data updated
+
+Sat Dec  3 16:49:46 2022
+Printer: PDH-CLJ-M750
+IP: 137.140.24.145
+Cyan cartridge data updated
+
+Sat Dec  3 16:49:46 2022
+Printer: PDH-CLJ-M750
+IP: 137.140.24.145
+Magenta cartridge data updated
+
+Sat Dec  3 16:49:46 2022
+Printer: PDH-CLJ-M750
+IP: 137.140.24.145
+Yellow cartridge data updated
+
+Sat Dec  3 16:49:51 2022
+Printer: PDH-LJ-M806
+IP: 137.140.24.190
+Black cartridge data updated
+
+Sat Dec  3 16:49:52 2022
+Sat Dec  3 16:49:53 2022
+Printer: REH107-LJ-M608
+IP: 137.140.24.238
+Black cartridge data updated
+
+Sat Dec  3 16:49:55 2022
+Printer: REH210-LJ-M609
+IP: 137.140.24.184
+ERROR 200: Recent page address failed
+Error message:
+HTTPSConnectionPool(host='137.140.24.184', port=443): Max retries exceeded with url: /hp/device/InternalPages/Index?id=SuppliesStatus (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000029235941C90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+Sat Dec  3 16:49:57 2022
+Printer: REH210-LJ-M609
+IP: 137.140.24.184
+ERROR 201: Old page address failed
+Error message:
+HTTPSConnectionPool(host='137.140.24.184', port=443): Max retries exceeded with url: /hp/device/this.LCDispatcher?nav=hp.Supplies (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000292359A7640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+Sat Dec  3 16:49:57 2022
+Printer: REH210-LJ-M609
+IP: 137.140.24.184
+ERROR 401: Unable to connect!
+This printer may be jammed, turned off, or not supported
+
+Sat Dec  3 16:50:00 2022
+Printer: REH211-LJ-M606
+IP: 137.140.24.187
+Black cartridge data updated
+
+Sat Dec  3 16:50:05 2022
+Sat Dec  3 16:50:05 2022
+Printer: RVH-LJ-M602
+IP: 137.140.24.167
+Black cartridge data updated
+
+Sat Dec  3 16:50:07 2022
+Printer: SAB100-LJ2-4515
+IP: 137.140.24.159
+ERROR 200: Recent page address failed
+Error message:
+404 Client Error: Not Found for url: https://137.140.24.159/hp/device/InternalPages/Index?id=SuppliesStatus
+
+Sat Dec  3 16:50:09 2022
+Sat Dec  3 16:50:09 2022
+Printer: SAB100-LJ2-4515
+IP: 137.140.24.159
+Black cartridge data updated
+
+Sat Dec  3 16:50:18 2022
+Printer: SAB210-CLJ-M750
+IP: 137.140.24.231
+Black cartridge data updated
+
+Sat Dec  3 16:50:18 2022
+Printer: SAB210-CLJ-M750
+IP: 137.140.24.231
+Cyan cartridge data updated
+
+Sat Dec  3 16:50:18 2022
+Printer: SAB210-CLJ-M750
+IP: 137.140.24.231
+Magenta cartridge data updated
+
+Sat Dec  3 16:50:18 2022
+Printer: SAB210-CLJ-M750
+IP: 137.140.24.231
+Yellow cartridge data updated
+
+Sat Dec  3 16:50:22 2022
+Printer: SAB210-LJ-M606
+IP: 137.140.24.201
+Black cartridge data updated
+
+Sat Dec  3 16:50:30 2022
+Printer: SAB212-CLJ-M750
+IP: 137.140.24.225
+Black cartridge data updated
+
+Sat Dec  3 16:50:30 2022
+Printer: SAB212-CLJ-M750
+IP: 137.140.24.225
+Cyan cartridge data updated
+
+Sat Dec  3 16:50:30 2022
+Printer: SAB212-CLJ-M750
+IP: 137.140.24.225
+Magenta cartridge data updated
+
+Sat Dec  3 16:50:30 2022
+Printer: SAB212-CLJ-M750
+IP: 137.140.24.225
+Yellow cartridge data updated
+
+Sat Dec  3 16:50:34 2022
+Printer: SAB212-LJ-M606
+IP: 137.140.24.202
+Black cartridge data updated
+
+Sat Dec  3 16:50:39 2022
+Sat Dec  3 16:50:39 2022
+Printer: SCUD-LJ-602
+IP: 137.140.24.127
+Black cartridge data updated
+
+Sat Dec  3 16:50:42 2022
+Printer: SH158-LJ-M606
+IP: 137.140.24.149
+Black cartridge data updated
+
+Sat Dec  3 16:50:45 2022
+Printer: SH168-LJ-4515
+IP: 137.140.24.183
+ERROR 200: Recent page address failed
+Error message:
+404 Client Error: Not Found for url: https://137.140.24.183/hp/device/InternalPages/Index?id=SuppliesStatus
+
+Sat Dec  3 16:50:46 2022
+Printer: SH168-LJ-4515
+IP: 137.140.24.183
+Black cartridge data updated
+
+Sat Dec  3 16:50:51 2022
+Printer: SH231-CLJ-M750
+IP: 137.140.24.162
+Black cartridge data updated
+
+Sat Dec  3 16:50:51 2022
+Printer: SH231-CLJ-M750
+IP: 137.140.24.162
+Cyan cartridge data updated
+
+Sat Dec  3 16:50:51 2022
+Printer: SH231-CLJ-M750
+IP: 137.140.24.162
+Magenta cartridge data updated
+
+Sat Dec  3 16:50:51 2022
+Printer: SH231-CLJ-M750
+IP: 137.140.24.162
+Yellow cartridge data updated
+
+Sat Dec  3 16:50:52 2022
+Printer: SH231-LJ-9050
+IP: 137.140.24.244
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPSConnectionPool(host='137.140.24.244', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:997)')))
+
+Sat Dec  3 16:50:55 2022
+Printer: SH259-LJ-M606
+IP: 137.140.24.169
+Black cartridge data updated
+
+Sat Dec  3 16:51:15 2022
+Printer: SH271-LJ-M606
+IP: 137.140.24.173
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPConnectionPool(host='137.140.24.173', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000029235A60820>, 'Connection to 137.140.24.173 timed out. (connect timeout=20)'))
+
+Sat Dec  3 16:51:22 2022
+Printer: SHA-LJ-602
+IP: 137.140.24.128
+Black cartridge data updated
+
+Sat Dec  3 16:51:42 2022
+Printer: SHANGOEOP-LJ-M608
+IP: 137.140.24.194
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPConnectionPool(host='137.140.24.194', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000029235B62980>, 'Connection to 137.140.24.194 timed out. (connect timeout=20)'))
+
+Sat Dec  3 16:51:46 2022
+Printer: SUB-LJ-M806
+IP: 137.140.24.148
+Black cartridge data updated
+
+Sat Dec  3 16:52:07 2022
+Printer: SUB100-LJ-4515
+IP: 137.140.24.239
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPConnectionPool(host='137.140.24.239', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000029235911390>, 'Connection to 137.140.24.239 timed out. (connect timeout=20)'))
+
+Sat Dec  3 16:52:12 2022
+Sat Dec  3 16:52:12 2022
+Printer: SUB39-LJ-M602
+IP: 137.140.24.168
+Black cartridge data updated
+
+Sat Dec  3 16:52:17 2022
+Printer: SWH-LJ-602
+IP: 137.140.24.125
+Black cartridge data updated
+
+Sat Dec  3 16:52:17 2022
+Printer: VH113-LJ-9050
+IP: 137.140.24.232
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPSConnectionPool(host='137.140.24.232', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: UNSUPPORTED_PROTOCOL] unsupported protocol (_ssl.c:997)')))
+
+Sat Dec  3 16:52:22 2022
+Printer: VH115-CLJ-M750
+IP: 137.140.24.156
+Black cartridge data updated
+
+Sat Dec  3 16:52:22 2022
+Printer: VH115-CLJ-M750
+IP: 137.140.24.156
+Cyan cartridge data updated
+
+Sat Dec  3 16:52:22 2022
+Printer: VH115-CLJ-M750
+IP: 137.140.24.156
+Magenta cartridge data updated
+
+Sat Dec  3 16:52:23 2022
+Printer: VH115-CLJ-M750
+IP: 137.140.24.156
+Yellow cartridge data updated
+
+Sat Dec  3 16:52:27 2022
+Printer: VH115-LJ-M806
+IP: 137.140.24.155
+Black cartridge data updated
+
+Sat Dec  3 16:52:47 2022
+Printer: VH208A-LJ-m506
+IP: 137.140.24.208
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPConnectionPool(host='137.140.24.208', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000292359A71F0>, 'Connection to 137.140.24.208 timed out. (connect timeout=20)'))
+
+Sat Dec  3 16:53:07 2022
+Printer: VH208B-LJ-m506
+IP: 137.140.24.209
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPConnectionPool(host='137.140.24.209', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000292359A4E50>, 'Connection to 137.140.24.209 timed out. (connect timeout=20)'))
+
+Sat Dec  3 16:53:08 2022
+Printer: VH221-LJ-M609
+IP: 137.140.24.222
+Black cartridge data updated
+
+Sat Dec  3 16:53:12 2022
+Printer: VHA250A-LJ-m506
+IP: 137.140.24.196
+Black cartridge data updated
+
+Sat Dec  3 16:53:32 2022
+Printer: WH219-LJ-9050
+IP: 137.140.24.135
+ERROR 300: Unable to connect! This printer may be jammed, turned off, or not supported.
+Error message:
+HTTPConnectionPool(host='137.140.24.135', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000029235912260>, 'Connection to 137.140.24.135 timed out. (connect timeout=20)'))
+
+Sat Dec  3 16:53:36 2022
+Printer: WH221-LJ-M606
+IP: 137.140.24.247
+Black cartridge data updated
+
+Sat Dec  3 16:53:39 2022
+Printer: WH223-LJ-M606
+IP: 137.140.24.246
+Black cartridge data updated
+
+Sat Dec  3 16:53:43 2022
+Printer: WH335-LJ-M606
+IP: 137.140.24.227
+Black cartridge data updated
+
+Sat Dec  3 16:53:48 2022
+Printer: WH337-CLJ-M750
+IP: 137.140.24.229
+Black cartridge data updated
+
+Sat Dec  3 16:53:48 2022
+Printer: WH337-CLJ-M750
+IP: 137.140.24.229
+Cyan cartridge data updated
+
+Sat Dec  3 16:53:48 2022
+Printer: WH337-CLJ-M750
+IP: 137.140.24.229
+Magenta cartridge data updated
+
+Sat Dec  3 16:53:48 2022
+Printer: WH337-CLJ-M750
+IP: 137.140.24.229
+Yellow cartridge data updated
+
+Sat Dec  3 16:53:52 2022
+Printer: WH337-LJ-M606
+IP: 137.140.24.228
+Black cartridge data updated
+
+Sat Dec  3 16:53:57 2022
+Printer: WHLobby-LJ-M712
+IP: 137.140.24.248
+Black cartridge data updated
+

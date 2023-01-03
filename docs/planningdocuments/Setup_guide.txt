@@ -1,0 +1,49 @@
+Setup For PrinterDynamix on Windows
+
+Prerequisites:
+
+1) Xampp -- https://www.apachefriends.org/download.html
+-> Make sure to run the installation as admin and install to c:\Xampp
+-> Only really need Apache, MySQL, PHP and PHPMyAdmin
+
+2) Python 3.10+  -- Earlier versions of Python3 may work, but haven't been tested.
+
+Easiest way to get this is to just type python3 at a command prompt. If it's not on the system,
+Windows will direct you to a Microsoft Store page. From there you can just click the 'Get' button.
+
+If you install from the official Python site/repos, make sure that the python binary is in your SYSTEM PATH.
+
+3) Python Modules - lxml, bs4, mysql.connector, re, requests
+
+Run an admin command prompt and the command is this:
+
+pip3 install lxml bs4 mysql.connector
+
+Also made a quick script for this -- Install-PythonModules.cmd (run as admin)
+
+4) Git SCM
+
+https://git-scm.com/
+
+I prefer to use command-line git instead of the GUI. If you choose to use the CLI version,
+make sure to select the option to add to PATH. Not sure if this is necessary when using the GUI.
+
+
+5) PrinterDynamix Git Repo
+
+git clone https://github.com/Zed-Fermon/PrinterDynamix.git
+
+* I like to separate working directory from my git directory. This means that at any point in development,
+I can easily revert one or many files back to the git version. I recommend cloning to desktop or documents.
+
+
+
+--------- Setup ---------------
+
+Copy Files -- scripts\Setup-PrinterDynamix.cmd
+
+Import SQL & Add pd_user -- scripts\Import-SQL.cmd
+
+---------- Running -------------
+
+Just make sure Xampp is running Apache and MySQL and navigate to localhost/PrinterDynamix.
